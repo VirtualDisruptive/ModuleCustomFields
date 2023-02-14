@@ -1,4 +1,7 @@
-# democustomfields17
+# Important
+You have to modify in your project AdminProductDataProvider.php, Remember to make an backup
+
+# democustomfields
 
 This module is an architectural skeleton for module developers, who want to add custom fields in the product page on the backoffice.
 
@@ -7,15 +10,9 @@ It's a base, you have to adapt it to your needs ... This will save you a lot of 
 
 ## Current produt hooks
 
-- displayAdminProductsExtra
+
 - displayAdminProductsMainStepLeftColumnMiddle
-- displayAdminProductsMainStepLeftColumnBottom
-- displayAdminProductsMainStepRightColumnBottom
-- displayAdminProductsQuantitiesStepBottom
-- displayAdminProductsPriceStepBottom
-- displayAdminProductsOptionsStepTop
-- displayAdminProductsOptionsStepBottom
-- displayAdminProductsSeoStepBottom
+
 
 ## Requirements
 
